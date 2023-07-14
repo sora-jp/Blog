@@ -1,0 +1,26 @@
+baseURL = 'http://blog.satrn.se/'
+languageCode = 'en-us'
+title = "Satrn's Blog"
+theme = 'risotto'
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[params.about]
+title = "Satrn's Blog"
+description = "CTF Writeups, Personal projects, and everything inbetween"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/sora-jp"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-twitter"
+title = "GitHub"
+url = "https://twitter.com/_nullref"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:satrn@satrn.se"
